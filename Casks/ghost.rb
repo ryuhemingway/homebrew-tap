@@ -1,8 +1,8 @@
 cask "ghost" do
   version "1.0.3"
-  sha256 "8b3283b0252d86b1be25104357ea224137b5922657f9a1d040df56a0263668d6"
+  sha256 "662102297d50e3f4faecda3ad1d112baeaa0eeed5e4ba2ad58d36bdab1fe782d"
 
-  url "https://github.com/ryuhemingway/Ghost-App/releases/download/v#{version}/Ghost-v#{version}.zip"
+  url "https://integratedagentics.com/ghost/Ghost-#{version}.zip"
   name "Ghost"
   desc "AI assistant menubar app for macOS"
   homepage "https://github.com/ryuhemingway/Ghost-App"
