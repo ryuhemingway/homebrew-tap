@@ -3,8 +3,8 @@ class Claudeusage < Formula
 
   desc "Token, cost and efficiency dashboard for Claude Code usage"
   homepage "https://github.com/ryuhemingway/claudeusage"
-  url "https://github.com/ryuhemingway/claudeusage/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "074141982b0b159053d1732de60fcb4f4e0576b75c07b6ec3dcba9991fb730b5"
+  url "https://github.com/ryuhemingway/claudeusage/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "a43379beed9f2a0edea2cd49d701adb0929b58b55e1e0b5700d4aa30a7cf11bd"
   license "MIT"
 
   depends_on "python@3.13"
